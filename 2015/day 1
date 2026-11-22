@@ -5,4 +5,5 @@ for i in range(len(instr)):
         floor = floor + 1
     else:
         floor = floor - 1
-        
+print (floor) 
+
